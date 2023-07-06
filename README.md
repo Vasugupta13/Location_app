@@ -1,16 +1,12 @@
-# assesment_task
+#Location_app
 
-A new Flutter project.
+Developed a Flutter application which shows the location of the user by it's coordinate which are fetched by Geolocator package and also stores the coordinates to Firestore Database.
 
-## Getting Started
+                                                      Here's the video of Locator App -
 
-This project is a starting point for a Flutter application.
+https://github.com/Vasugupta13/Location_app/assets/98811369/9b4a7239-2aa7-4e81-a310-0296a313c2ff
 
-A few resources to get you started if this is your first Flutter project:
+                                                            Firestore database -
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://github.com/Vasugupta13/Location_app/assets/98811369/d768bd10-67ab-4753-8f55-f3600e8af458)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
